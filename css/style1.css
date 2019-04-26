@@ -1,0 +1,21 @@
+
+  p {font-size: 20px;}
+  .margin {margin-bottom: 45px;}
+  .bg-1 { 
+    background-color: #b86fdc; /* Green */
+    color: #ffffff;
+  }
+  
+  .navbar {
+    padding-top: 10px;
+    padding-bottom: 5px;
+    border: 0;
+    border-radius: 0;
+    margin-bottom: 0;
+    font-size: 12px;
+    letter-spacing: 5px;
+  }
+  .navbar-nav  li a:hover {
+    color: #1abc9c !important;
+  }
+  
